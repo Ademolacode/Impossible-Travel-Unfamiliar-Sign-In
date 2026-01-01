@@ -25,7 +25,6 @@ impossible-travel-unfamiliar-signin/
 ├── README.md                          # You are here (overview for recruiters)
 │
 ├── investigations/
-│   └── 001-impossible-travel-unfamiliar-signin/
 │       ├── README.md                  # Full investigation report
 │       ├── timeline.md                # Event-by-event timeline (UTC)
 │       ├── iocs.md                    # Extracted indicators of compromise

@@ -85,7 +85,7 @@ All Splunk queries used during the investigation are documented for transparency
 📁 **Location:**
 
 ```
-/investigations/001-impossible-travel-unfamiliar-signin/splunk-queries.md
+./Investigations/splunk-queries.md
 ```
 
 **Query Coverage Includes:**

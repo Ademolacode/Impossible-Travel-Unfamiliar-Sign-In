@@ -6,7 +6,7 @@ This repository demonstrates how I triage identity-based alerts, analyze logs, d
 
 ---
 
-## 🎯 What This Project Shows ()
+## 🎯 What This Project Shows
 
 * Identity-based alert triage (Impossible Travel)
 * Microsoft 365 audit log investigation

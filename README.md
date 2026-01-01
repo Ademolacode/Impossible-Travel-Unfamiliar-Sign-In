@@ -45,9 +45,13 @@ impossible-travel-unfamiliar-signin/
 ### 🔹 001 – Impossible Travel & Unfamiliar Sign-In (Microsoft 365)
 
 **Category:** Identity Security / Business Email Compromise
+
 **SIEM:** Splunk
+
 **Data Source:** Microsoft 365 Audit Logs
+
 **Timezone:** UTC
+
 **Org Context:** Vancouver, BC, Canada
 
 **Summary:**

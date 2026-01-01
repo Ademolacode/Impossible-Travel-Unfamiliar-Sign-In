@@ -57,7 +57,7 @@ impossible-travel-unfamiliar-signin/
 **Summary:**
 Investigated an unfamiliar sign-in originating from **Singapore** for a Canada-based user. Post-authentication activity revealed **mailbox forwarding rule abuse** and **fraudulent email activity**, consistent with **Business Email Compromise (BEC)**.
 
-👉 **[View Full Investigation Report](./investigations/001-impossible-travel-unfamiliar-signin/README.md)**
+👉 **[View Full Investigation Report](./Investigations/README.md)**
 
 ---
 

@@ -42,7 +42,7 @@ impossible-travel-unfamiliar-signin/
 
 ## 🧾 Featured Investigation
 
-### 🔹 001 – Impossible Travel & Unfamiliar Sign-In (Microsoft 365)
+### 🔹 Impossible Travel & Unfamiliar Sign-In (Microsoft 365)
 
 **Category:** Identity Security / Business Email Compromise
 

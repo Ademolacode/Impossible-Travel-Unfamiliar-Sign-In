@@ -121,8 +121,5 @@ Inside the investigation folder you’ll find:
 
 ---
 
-## 🤝 Notes
-
-This investigation was completed as part of hands-on training within the **MyDFIR SOC Community** and reflects SOC investigation and documentation standards.
 
 

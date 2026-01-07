@@ -161,16 +161,3 @@ Provides an end-to-end view of the incident lifecycle.
 
 ---
 
-## ✅ Evidence Integrity Statement
-
-- All findings are supported by logged events
-- No assumptions or speculative conclusions
-- Each investigation claim maps to at least one screenshot in this folder
-- Screenshots were selected to maximize clarity and minimize noise
-
----
-
-## 👀 Reviewer Note
-
-This folder is structured to mirror how SOC teams document and review incident evidence internally.  
-A hiring manager or analyst can quickly assess investigation quality without opening every artifact.

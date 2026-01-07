@@ -77,7 +77,7 @@ All conclusions are based on log evidence, not speculation.
 | 02-ip-geolocation.png | OSINT confirmation: IP geolocates to Singapore |
 | 03-mailbox-rule-creation.png | Audit log: Forwarding rule created |
 | 04-mailbox-rule-details.png | Full rule config: schan → stoicellis, delete + mark read |
-| 05-emails-accessed.png | Two emails accessed: "RE: First Invoice" and "URGENT: Client Bank Account" |
+| 05-emails-subject-distribution.png | Two emails subject: "RE: First Invoice" and "URGENT: Client Bank Account" |
 | 06-email-sent.png | Malicious email sent with NEW-BANK-ACCOUNT.pdf attachment |
 | 07-draft-deleted.png | Email deleted from drafts: "Re: First Invoice of the month!" |
 | 08-ip-correlation-check.png | Query confirming no other accounts used this IP |

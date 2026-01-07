@@ -22,19 +22,23 @@ This repository demonstrates how I triage identity-based alerts, analyze logs, d
 
 ```
 impossible-travel-unfamiliar-signin/
-├── README.md                          # You are here (overview for recruiters)
+├── README.md                                    # Landing page (overview, skills, links)
 │
-├── investigations/
-│       ├── README.md                  # Full investigation report
-│       ├── timeline.md                # Event-by-event timeline (UTC)
-│       ├── iocs.md                    # Extracted indicators of compromise
-│       ├── splunk-queries.md           # Splunk queries used in the investigation
-│       └── screenshots/               # Supporting visual evidence
-│           ├── 01-unfamiliar-login.png
-│           ├── 02-ip-geolocation.png
-│           ├── 03-mailbox-rule.png
-│           ├── 04-email-activity.png
-│           └── 05-activity-timeline.png
+└── Investigations/                              # All investigation materials here
+    ├── README.md                                # Full investigation report (5W1H format)
+    ├── timeline.md                              # Event-by-event timeline
+    ├── iocs.md                                  # Indicators of compromise
+    ├── splunk-queries.md                        # Queries with results
+    └── screenshots/                             # Visual evidence
+        ├── 01-unfamiliar-login.png
+        ├── 02-ip-geolocation.png
+        ├── 03-mailbox-rule-creation.png
+        ├── 04-mailbox-rule-details.png
+        ├── 05-emails-accessed.png
+        ├── 06-email-sent.png
+        ├── 07-draft-deleted.png
+        ├── 08-ip-correlation-check.png
+        └── 09-activity-timeline.png
 ```
 
 ---

@@ -34,7 +34,7 @@ impossible-travel-unfamiliar-signin/
         ├── 02-ip-geolocation.png
         ├── 03-mailbox-rule-creation.png
         ├── 04-mailbox-rule-details.png
-        ├── 05-emails-accessed.png
+        ├── 05-emails-subject-distribution.png
         ├── 06-email-sent.png
         ├── 07-draft-deleted.png
         ├── 08-ip-correlation-check.png

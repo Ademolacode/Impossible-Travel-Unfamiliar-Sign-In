@@ -67,13 +67,17 @@ All conclusions are based on log evidence, not speculation.
 
 ### Screenshot Index (Located in `/screenshots/`)
 
-| Screenshot                   | Description                                                                    |
-| ---------------------------- | ------------------------------------------------------------------------------ |
-| **01-unfamiliar-login.png**  | Splunk results showing successful login for the user from a Singapore-based IP |
-| **02-ip-geolocation.png**    | OSINT enrichment confirming the IP geolocation                                 |
-| **03-mailbox-rule.png**      | Audit log evidence of inbox forwarding rule creation                           |
-| **04-email-activity.png**    | Logs showing emails accessed and a banking-themed email sent                   |
-| **05-activity-timeline.png** | Chronological view of login and mailbox actions                                |
+| Screenshot | Description |
+|-----------|-------------|
+| 01-unfamiliar-login.png | Login from Singapore IP (188.214.125.138) for JChan at 2024-01-11 20:46:39 UTC |
+| 02-ip-geolocation.png | OSINT confirmation: IP geolocates to Singapore |
+| 03-mailbox-rule-creation.png | Audit log: Forwarding rule created |
+| 04-mailbox-rule-details.png | Full rule config: schan → stoicellis, delete + mark read |
+| 05-emails-accessed.png | Two emails accessed: "RE: First Invoice" and "URGENT: Client Bank Account" |
+| 06-email-sent.png | Malicious email sent with NEW-BANK-ACCOUNT.pdf attachment |
+| 07-draft-deleted.png | Email deleted from drafts: "Re: First Invoice of the month!" |
+| 08-ip-correlation-check.png | Query confirming no other accounts used this IP |
+| 09-activity-timeline.png | Chronological view of all actions from compromised session |
 
 ---
 

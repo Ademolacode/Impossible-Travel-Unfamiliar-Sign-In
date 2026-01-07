@@ -1,6 +1,6 @@
 # 📸 Investigation Evidence – Screenshots
 
-This directory contains **primary visual evidence** supporting the *Impossible Travel / Unfamiliar Sign-In* and *Business Email Compromise (BEC)* investigation documented in this repository.
+This directory contains **screenshots** supporting the *Impossible Travel / Unfamiliar Sign-In* and *Business Email Compromise (BEC)* investigation documented in this repository.
 
 Each screenshot directly supports a specific investigation question or conclusion.  
 No screenshots are exploratory or redundant.
@@ -86,20 +86,20 @@ Confirms malicious mailbox manipulation consistent with BEC tradecraft.
 
 ---
 
-### 05. Emails Accessed
-**File:** `05-emails-accessed.png`
+### 05. Email Subject Distribution
+**File:** `05-emails-subject-distribution.png`
 
 **What it shows:**
-- `MailItemsAccessed` audit events
-- Access to:
+- Aggregated analysis of email subject fields observed during the attacker session
+- Presence of the following subjects:
   - “RE: First Invoice of the month!”
   - “URGENT: Client Bank Account”
-- Activity tied to the attacker IP and session
 
 **Why it matters:**  
-Shows reconnaissance of financial email content prior to fraud.
+Provides subject-level context for emails interacted with during the compromised session and supports identification of financially themed messages later confirmed through direct audit events.
 
-![05-emails-accessed](./05-emails-accessed.png)
+
+![05-emails-subject-distribution](./05-emails-subject-distribution.png)
 
 ---
 
